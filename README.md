@@ -2,6 +2,8 @@
 
 A React application to browse and search cryptocurrency data using the **CoinGecko API**.
 
+![App Screenshot](./public/Crypto-dash-project.png)
+
 ## ✨ Features
 
 - 🔍 Search cryptocurrencies
